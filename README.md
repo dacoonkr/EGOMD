@@ -11,8 +11,8 @@
 
 - [Chapter 7 - 접속사와 절](<./Book1/Chapter 7 - 접속사와 절.md>)
 
-- [Chapter 10 - 명사와 관사 #1](<./Book2/Chapter 10 - 명사와 관사 #1.md>)
+- [Chapter 10 - 명사와 관사 #1](<./Book2/Chapter 10 - 명사와 관사 %231.md>)
 
-- [Chapter 10 - 명사와 관사 #2](<./Book2/Chapter 10 - 명사와 관사 #2.md>)
+- [Chapter 10 - 명사와 관사 #2](<./Book2/Chapter 10 - 명사와 관사 %232.md>)
 
   
