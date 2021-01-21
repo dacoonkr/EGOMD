@@ -96,3 +96,20 @@ ___
 
 ### 자주 쓰이는 동명사 구문
 
+- can't help v-ing (~하지 않을 수 없다)
+- go v-ing (~하러 가다)
+- look forward to v-ing (~할 것을 고대하다[기대하다])
+- be accustomed to v-ing (~에 익숙하다)
+- be used to v-ing (~에 익숙하다)
+- be busy v-ing (~하느라 바쁘다)
+- be on the point of v-ing (막 ~하려던 참이다)
+- be worth v-ing (~할 가치가 있다)
+- feel like v-ing (~하고 싶다)
+- never ~ without v-ing (~하지 않고는 ~않는다)
+- prevent *A* from v-ing (A가 ~하지 못하게 하다
+- on v-ing (~하자마자)
+- have trouble v-ing (~하는데 어려움을 겪다)
+- there is no v-ing (~하는 것은 불가능하다)
+- spend + 시간[돈] + on v-ing (~하느라 시간[돈]을 소비하다
+- it is no use v-ing (~해도 소용없다)
+- it goes without saying that (~은 말할 필요도 없다)
